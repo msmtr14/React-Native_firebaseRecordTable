@@ -9,7 +9,7 @@
 2. Go to project root directory
 
 ```sh
-   $ React-Native_firebaseRecordTable
+   $ cd React-Native_firebaseRecordTable
 
 ```
 
